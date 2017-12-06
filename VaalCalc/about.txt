@@ -1,0 +1,8 @@
+This is the first program I've written outside of school that actually has a UI.
+It is coded entirely in Java besides some of the button styling and alignment
+which was done in CSS. I've uploaded the current version (1.1) of this program but there will be
+more updates in the future.
+
+What does it do?
+It calculates the percentage chance of a stat rolling on a given item as well as 
+the likelihood of "profitability" for items in the game Path of Exile.
